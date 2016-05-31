@@ -1,2 +1,2 @@
 # SpannableStringBuilder
-图文混排的demo
+图文混排的demo,用的是SpannableStringBuilder这个类
